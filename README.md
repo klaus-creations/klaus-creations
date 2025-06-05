@@ -1,10 +1,6 @@
 ![Profile](./public/github.png)
 
-# 💫 Super Cool Man
-
-🚀 Full-Stack Developer building blazing-fast web apps  
-🌐 Specialized in the **Node.js environment** with a focus on scalability and clean code  
-🎯 Passionate about tech, problem-solving, and shipping cool products  
+Software Engineer  
 
 ---
 
